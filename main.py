@@ -69,17 +69,17 @@ def submit(s: requests.Session):
         # 昨天是否接受核酸检测
         "sfjshsjc": "1",                     # PCR test?       1.是 0.否
         # 第一针接种
-        "dyzymjzqk": "3",                    # first vaccination situation  3.已接种
+        "dyzymjzqk": "1",                    # first vaccination situation  3.已接种
         "dyzjzsj": "2021-04-21",             # date of first vaccination
         "dyzwjzyy": "",
         # 第二针接种
-        "dezymjzqk": "3",                    # second vaccination situation  3.已接种
+        "dezymjzqk": "1",                    # second vaccination situation  3.已接种
         "dezjzsj": "2021-06-01",             # date of second vaccination
         "dezwjzyy": "",
         # 第三针接种
-        "dszymjzqk": "3",                    # third vaccination situation  6.未接种
+        "dszymjzqk": "1",                    # third vaccination situation  6.未接种
         "dezjzsj": "2021-12-04",             # date of second vaccination
-       
+        "dezwjzyy": "",
 
         "gtshryjkzk": "1",                   # health situation
         "extinfo": "",                       # other information

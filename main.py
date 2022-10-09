@@ -78,8 +78,8 @@ def submit(s: requests.Session):
         "dezwjzyy": "",
         # 第三针接种
         "dszymjzqk": "1",                    # third vaccination situation  6.未接种
-        "dezjzsj": "2021-12-04",             # date of second vaccination
-        "dezwjzyy": "",
+        "dszjzsj": "2021-12-04",             # date of second vaccination
+        "dszwjzyy": "",
 
         "gtshryjkzk": "1",                   # health situation
         "extinfo": "",                       # other information
